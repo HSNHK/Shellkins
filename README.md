@@ -1,4 +1,9 @@
-# Shellkins
+# Shellkins 
+<p align="center">
+<a href="#license"><img src="resources/images/logo.png"></a>
+</p>
+
+[![HSNHK - Shellkins](https://img.shields.io/static/v1?label=HSNHK&message=Shellkins&color=blue&logo=github)](https://github.com/HSNHK/Shellkins)
 [![stars - Shellkins](https://img.shields.io/github/stars/HSNHK/Shellkins?style=social)](https://github.com/HSNHK/Shellkins)
 [![forks - Shellkins](https://img.shields.io/github/forks/HSNHK/Shellkins?style=social)](https://github.com/HSNHK/Shellkins) [![GitHub release](https://img.shields.io/github/release/HSNHK/Shellkins?include_prereleases=&sort=semver)](https://github.com/HSNHK/Shellkins/releases/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
@@ -6,6 +11,7 @@
 
 [Jenkins](https://en.wikipedia.org/wiki/Jenkins_(software)) Remote Command Execution
 > Jenkins is an open source automation server. It helps automate the parts of software development related to building, testing, and deploying, facilitating continuous integration and continuous delivery.
+
 ## Usage
 ```
 $ python3 shellkins.py --help
